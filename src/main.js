@@ -1,7 +1,4 @@
-import gsap from 'gsap';
-import { ScrollTrigger } from 'gsap/ScrollTrigger';
-import { TextPlugin } from 'gsap/TextPlugin';
-
+// gsap, ScrollTrigger, TextPlugin loaded globally from CDN
 gsap.registerPlugin(ScrollTrigger, TextPlugin);
 
 /* =============================================
