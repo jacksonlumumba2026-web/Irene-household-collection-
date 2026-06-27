@@ -1,4 +1,9 @@
 node_modules/
+.next/
+out/
 dist/
 .DS_Store
 *.local
+.env*.local
+next-env.d.ts
+*.tsbuildinfo
